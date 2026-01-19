@@ -1,46 +1,47 @@
-# Григорий (XataBq) — Android Developer (Intern/Junior)
+# Grigory (XataBq) — Android Developer Intern
 
-Привет! Я Android-разработчик, фокус — **Kotlin + современный Android стек (MVVM / Retrofit / Room / Jetpack Compose)**.  
-Сейчас собираю портфолио под стажировку/джун-позицию и регулярно коммичу учебные и pet-проекты.
+Android-разработчик с фокусом на **Kotlin и современный Android-стек**.  
+Собираю портфолио под стажировку и регулярно работаю над pet- и learning-проектами.
 
-📍 Россия  
-🌍 English: B2 (сертификат, Singapore school)  
-✉️ Telegram: @ferlow
-
----
-
-## 🔥 Лучшие проекты (что открыть первым)
-
-1) **WeatherApp** — мой флагманский проект (Retrofit, несколько экранов, UI, настройки темы)  
-2) **JetpackApp** — Jetpack Compose + навигация + auth flow (в процессе)  
-3) **DemoUser** — Room + MVVM (DAO/Repository/ViewModel), демонстрация архитектуры  
-4) **Kotlin1** — learning-repo: 20+ файлов с примерами Kotlin (от базовых конструкций до coroutines/extensions)
+ Moscow, Russia  
+ English: B2 (certified)  
+ Email: lyashchenko02@list.ru  
+ Telegram: @ferlow
 
 ---
 
-## 🧰 Tech Stack
-- **Kotlin**, Coroutines, extensions, collections, OOP
-- Android SDK, Activities/Fragments (где нужно), **Jetpack Compose**
-- **MVVM**, UI-state, clean separation UI/logic
-- **Retrofit**, работа с сетью, обработка ошибок
-- **Room** (Entity/DAO/Database), Repository pattern
-- Git/GitHub, Gradle
+##  Featured projects
+- **WeatherApp** — Android app with Retrofit, theming and navigation
+- **JetpackApp** — Jetpack Compose, auth flow, nested navigation graphs
+- **DemoUser** — Room + MVVM architecture demo
+- **Kotlin1** — Kotlin learning repository (20+ topics)
 
 ---
 
-## ➕ Additional experience
+##  Tech Stack (Android)
+- Kotlin
+- Android SDK
+- Jetpack Compose
+- MVVM
+- Retrofit
+- Room
+
+---
+
+##  Additional experience
 - Docker (docker-compose)
 - Basic SQL (PostgreSQL)
-- Python (microservices, educational projects)
+- Python (educational microservices)
 
 ---
 
-## 🎯 Сейчас прокачиваю
-- Dependency Injection (**Hilt**)
-- Более “production” архитектура: мапперы, модули, тестируемость
-- Compose: state management, навигация, устойчивые UI-состояния
+##  Currently learning
+- Dependency Injection (Hilt)
+- Production-ready architecture patterns
+- Advanced Jetpack Compose
 
 ---
 
-## ✅ Open to opportunities
-Ищу стажировку/джун Android. Готов регулярно вести learning-repo и делать 2–3+ коммита в неделю.
+##  Open to internship
+Looking for Android internship opportunities.  
+Ready to learn fast, receive feedback and work in a team.
