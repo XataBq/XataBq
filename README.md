@@ -28,6 +28,13 @@
 
 ---
 
+## ➕ Additional experience
+- Docker (docker-compose)
+- Basic SQL (PostgreSQL)
+- Python (microservices, educational projects)
+
+---
+
 ## 🎯 Сейчас прокачиваю
 - Dependency Injection (**Hilt**)
 - Более “production” архитектура: мапперы, модули, тестируемость
