@@ -1,16 +1,39 @@
-## Hi there 👋
+# Григорий (XataBq) — Android Developer (Intern/Junior)
 
-<!--
-**XataBq/XataBq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я Android-разработчик, фокус — **Kotlin + современный Android стек (MVVM / Retrofit / Room / Jetpack Compose)**.  
+Сейчас собираю портфолио под стажировку/джун-позицию и регулярно коммичу учебные и pet-проекты.
 
-Here are some ideas to get you started:
+📍 Россия  
+🌍 English: B2 (сертификат, Singapore school)  
+✉️ Telegram: @ferlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Лучшие проекты (что открыть первым)
+
+1) **WeatherApp** — мой флагманский проект (Retrofit, несколько экранов, UI, настройки темы)  
+2) **JetpackApp** — Jetpack Compose + навигация + auth flow (в процессе)  
+3) **DemoUser** — Room + MVVM (DAO/Repository/ViewModel), демонстрация архитектуры  
+4) **Kotlin1** — learning-repo: 20+ файлов с примерами Kotlin (от базовых конструкций до coroutines/extensions)
+
+---
+
+## 🧰 Tech Stack
+- **Kotlin**, Coroutines, extensions, collections, OOP
+- Android SDK, Activities/Fragments (где нужно), **Jetpack Compose**
+- **MVVM**, UI-state, clean separation UI/logic
+- **Retrofit**, работа с сетью, обработка ошибок
+- **Room** (Entity/DAO/Database), Repository pattern
+- Git/GitHub, Gradle
+
+---
+
+## 🎯 Сейчас прокачиваю
+- Dependency Injection (**Hilt**)
+- Более “production” архитектура: мапперы, модули, тестируемость
+- Compose: state management, навигация, устойчивые UI-состояния
+
+---
+
+## ✅ Open to opportunities
+Ищу стажировку/джун Android. Готов регулярно вести learning-repo и делать 2–3+ коммита в неделю.
