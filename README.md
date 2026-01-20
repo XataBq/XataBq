@@ -6,7 +6,7 @@ Android-разработчик с фокусом на **Kotlin и совреме
  Moscow, Russia  
  English: B2 (certified)  
  Email: lyashchenko02@list.ru  
- Telegram: @ferlow
+ Telegram: https://t.me/ferlow
 
 ---
 
