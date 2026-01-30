@@ -42,6 +42,7 @@ Implements:
 - MVVM
 - Retrofit
 - Room
+- DI (Hilt)
 
 ---
 
