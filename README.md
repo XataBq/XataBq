@@ -35,15 +35,17 @@ Implements:
 
 ---
 
-##  Tech Stack (Android)
+## Tech Stack (Android)
+
 - Kotlin
+- Coroutines & Flow
 - Android SDK
 - Jetpack Compose
-- MVVM
-- Retrofit
-- Room
-- DI (Hilt)
-
+- MVVM Architecture
+- Retrofit (REST API)
+- Room (Persistence)
+- Hilt (Dependency Injection)
+  
 ---
 
 ##  Additional experience
