@@ -54,9 +54,11 @@ Implements:
 ---
 
 ##  Currently learning
-- Dependency Injection (Hilt)
+- NotificationListenerService
 - Production-ready architecture patterns
 - Advanced Jetpack Compose
+- Services
+- Testing
 
 ---
 
