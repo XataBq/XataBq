@@ -1,4 +1,4 @@
-# Григорий — Android Developer Intern
+# Григорий — Android Developer
 
 Android-разработчик с фокусом на **Kotlin и современный Android-стек**.  
 Собираю портфолио под стажировку и регулярно работаю над pet- и learning-проектами.
