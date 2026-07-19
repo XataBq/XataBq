@@ -1,7 +1,7 @@
 # Григорий — Android Developer
 
 Android-разработчик с фокусом на **Kotlin и современный Android-стек**.  
-Собираю портфолио под стажировку и регулярно работаю над pet- и learning-проектами.
+Собираю портфолио и регулярно работаю над pet- и learning-проектами.
 
 Сейчас работаю с системными уведомлениями: NotificationListenerService, runtime-permissions (Android 13+), NotificationChannel, фоновая обработка событий и архитектурная интеграция через MVVM + DI.
 
