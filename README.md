@@ -1,67 +1,121 @@
 # Григорий — Android Developer
 
-Android-разработчик с фокусом на **Kotlin и современный Android-стек**.  
-Собираю портфолио и регулярно работаю над pet- и learning-проектами.
+Android-разработчик с фокусом на **Kotlin и современный Android-стек**.
+Работаю над pet-проектами, углубляюсь в архитектуру Android-приложений и готовлюсь к Junior Android позициям.
 
-Сейчас работаю с системными уведомлениями: NotificationListenerService, runtime-permissions (Android 13+), NotificationChannel, фоновая обработка событий и архитектурная интеграция через MVVM + DI.
+Есть опыт работы с production-кодом крупного многомодульного Android-приложения во время стажировки в **Т-Банке**: исправлял дефекты, писал UI/unit-тесты и участвовал в интеграции проверки клиентских TLS-сертификатов на нескольких экранах.
 
 📍 Moscow, Russia  
-🌍 English: B2 (certified)  
-📧 Email: lyashchenko02@list.ru  
-💬 Telegram: https://t.me/ferlow
+🌍 English: B2  
+📧 Email: [lyashchenko02@list.ru](mailto:lyashchenko02@list.ru)  
+💬 Telegram: [@ferlow](https://t.me/ferlow)
 
 ---
 
-### Featured projects
+## Featured projects
 
-**JetpackApp**  
-Android app built with Jetpack Compose demonstrating an authentication flow with nested navigation graphs.  
-Focuses on:
-- shared ViewModel scoped to navigation graph
+### Video Compressor
+
+Android-приложение для сжатия видео с готовыми пресетами и ручной настройкой параметров.
+
+В проекте работаю с:
+
+- **Jetpack Compose**
+- **MVVM + Clean Architecture**
+- **Coroutines & Flow**
+- **Navigation Compose**
+- **Hilt**
+- **Media3**
+- обработкой больших медиафайлов
+- настройкой resolution, bitrate, FPS и codec
+
+Цель проекта — довести приложение до полноценного релиза и публикации в магазинах приложений.
+
+### JetpackApp
+
+Jetpack Compose приложение с authentication flow и nested navigation graphs.
+
+Основные темы:
+
+- shared ViewModel, scoped to navigation graph
 - explicit UI state handling
 - separation of UI and business logic
+- Navigation Compose
 
-**WeatherApp**  
-Weather application using Open-Meteo API.  
-Implements:
-- Retrofit + coroutines
-- theming and Material 3
-- basic caching and error handling
+### WeatherApp
+
+Weather application using Open-Meteo API.
+
+Использует:
+
+- Retrofit
+- Coroutines
+- Material 3
+- basic caching
+- error handling
+
+### Other projects
 
 - **DemoUser** — Room + MVVM architecture demo
-- **Kotlin1** — Kotlin learning repository (20+ topics)
+- **Kotlin1** — Kotlin learning repository с 20+ учебными темами
 
 ---
 
-## Tech Stack (Android)
+## Android Tech Stack
 
-- Kotlin
-- Coroutines & Flow
-- Android SDK
-- Jetpack Compose
-- MVVM Architecture
-- Retrofit (REST API)
-- Room (Persistence)
-- Hilt (Dependency Injection)
-  
----
-
-##  Additional experience
-- Docker (docker-compose)
-- Basic SQL (PostgreSQL)
-- Python (educational microservices)
+- **Kotlin**
+- **Coroutines & Flow**
+- **Android SDK**
+- **Jetpack Compose**
+- **MVVM / Clean Architecture**
+- **Navigation Compose**
+- **Retrofit / OkHttp**
+- **Room**
+- **Hilt / Dependency Injection**
+- **Media3**
+- **JUnit / Android UI testing**
+- Git
 
 ---
 
-##  Currently learning
+## Android topics I'm currently deepening
+
+- Android application architecture
+- Services and background work
 - NotificationListenerService
-- Production-ready architecture patterns
-- Advanced Jetpack Compose
-- Services
-- Testing
+- lifecycle & state restoration
+- concurrency and coroutines
+- Media3 and video processing
+- performance and large-file processing
+- advanced Jetpack Compose
+- testing
 
 ---
 
-##  Open to internship
-Looking for Android internship opportunities.  
-Ready to learn fast, receive feedback and work in a team.
+## Additional experience
+
+- Java — reading and modifying existing Android code
+- Docker / docker-compose
+- SQL / PostgreSQL basics
+- Python — educational microservices
+
+---
+
+## Experience
+
+### Android Developer Intern — T-Bank
+
+Работал с production-кодом большого многомодульного Android-приложения.
+
+- исправил **13+ production defects** в нескольких модулях
+- написал **26 UI и unit tests**
+- участвовал в интеграции проверки **client TLS certificates (mTLS)** на нескольких экранах
+- работал с Kotlin, MVVM/MVI, Retrofit, OkHttp, Interceptors, DI, RxJava и Coroutines
+
+---
+
+## Open to opportunities
+
+Рассматриваю позиции **Junior Android Developer** и оплачиваемые Android-стажировки.
+
+Интересны команды, где можно работать с реальным продуктом, получать code review, развиваться в Android-разработке и постепенно брать на себя более сложные задачи.
