@@ -31,35 +31,25 @@ Android-приложение для сжатия видео с готовыми 
 
 Цель проекта — довести приложение до полноценного релиза и публикации в магазинах приложений.
 
-### JetpackApp
+### Notes App
 
-Jetpack Compose приложение с authentication flow и nested navigation graphs.
+Android-приложение для создания и организации заметок и задач с поддержкой изображений, форматирования текста и голосового ввода.
 
-Основные темы:
+В проекте работаю с:
 
-- shared ViewModel, scoped to navigation graph
-- explicit UI state handling
-- separation of UI and business logic
-- Navigation Compose
+- **Jetpack Compose**
+- **MVVM + Clean Architecture**
+- **Coroutines & Flow**
+- **Navigation Compose**
+- **Hilt**
+- **Room**
+- **Paging 3**
+- **Retrofit и OkHttp**
+- **GigaChat API и SaluteSpeech**
+- хранением изображений в приватной памяти приложения
+- светлой и тёмной темами с выбором цветового акцента
 
-### WeatherApp
-
-Weather application using Open-Meteo API.
-
-Использует:
-
-- Retrofit
-- Coroutines
-- Material 3
-- basic caching
-- error handling
-
-### Other projects
-
-- **DemoUser** — Room + MVVM architecture demo
-- **Kotlin1** — Kotlin learning repository с 20+ учебными темами
-
----
+Цель проекта — создать удобное и визуально современное приложение для повседневной работы с заметками и задачами
 
 ## Android Tech Stack
 
